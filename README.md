@@ -26,33 +26,6 @@
 
 ## 🚀 About Me
 
-```python
-class PratikKhandve:
-    def __init__(self):
-        self.name = "Pratik Khandve"
-        self.education = "B.E. Artificial Intelligence & Data Science"
-        self.university = "Ajeenkya D.Y. Patil University"
-        self.location = "Pune, India"
-        self.academic_score = "SGPA 9.2"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Analytics",
-            "Generative AI",
-            "Full-Stack Development"
-        ]
-        self.current_focus = [
-            "Building AI-powered applications",
-            "Learning Agentic AI",
-            "Developing real-world projects"
-        ]
-
-    def motto(self):
-        return "Turning ideas into intelligent solutions!"
-
-me = PratikKhandve()
-```
-
 🎓 Final-year B.E. student specializing in Artificial Intelligence and Data Science.
 
 📊 Passionate about discovering insights from data and building machine learning solutions.
