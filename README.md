@@ -22,6 +22,11 @@
   </a>
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratikkhandve55&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
